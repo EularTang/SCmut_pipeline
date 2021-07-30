@@ -17,7 +17,7 @@ VarScan 2.3.7 or higher
 GATKAnalysisTK 3.6 or higher
 
 ## 2. Usage
-###2.1 Create a file named "comboSC-para", containing the following parameters:fasta, dbsnp, known_Mills_indels, known_1000G_indels.
+### 2.1 Create a file named "comboSC-para", containing the following parameters:fasta, dbsnp, known_Mills_indels, known_1000G_indels.
 
 #### example
 fasta="/home/zhouchi/pTuneos/database_backup/Fasta/human.fasta"
