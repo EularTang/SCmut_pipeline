@@ -17,14 +17,15 @@ VarScan 2.3.7 or higher
 GATKAnalysisTK 3.6 or higher
 
 ## 2. Usage
-2.1 Create a file named "comboSC-para", containing the following parameters:fasta, dbsnp, known_Mills_indels, known_1000G_indels.
+###2.1 Create a file named "comboSC-para", containing the following parameters:fasta, dbsnp, known_Mills_indels, known_1000G_indels.
 
-### example
+#### example
 fasta="/home/zhouchi/pTuneos/database_backup/Fasta/human.fasta"
 dbsnp="/home/zhouchi/pTuneos/database_backup/VCF_annotation/dbsnp_138.hg38.vcf.gz"
 known_Mills_indels="/home/zhouchi/pTuneos/database_backup/VCF_annotation/Mills_and_1000G_gold_standard.indels.hg38.vcf.gz"
 known_1000G_indels="/home/zhouchi/pTuneos/database_backup/VCF_annotation/1000G_phase1.indels.hg38.sites.vcf.gz"
-2.2 run code:
+
+### 2.2 run code:
 `bash comboSC_mut`
 
 
