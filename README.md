@@ -4,7 +4,7 @@ A pipeline for gene mutation identification from single-cell RNA-sequencing
 ## 1. Introduction
 
 comboSC-mut is a pipeline based on [SCmut](https://github.com/nghiavtr/SCmut/projects)
-, which is used to provide more information for the selection of treatment stretegy in conboSC. SCmut is a novel and robust statistical method for cell-level somatic mutation detection from single-cell RNA-sequencing. SCmut requies RNA-sequencing data of single cells and bulk-cell DNA-sequencing (e.g whole exome sequencing - WES) of matched samples (tumor and normal). If the DNA-sequencing data are not available, the list of somatic mutations can be used.
+, which is used to provide more information for the selection of treatment stretegy in comboSC. SCmut is a novel and robust statistical method for cell-level somatic mutation detection from single-cell RNA-sequencing. SCmut requies RNA-sequencing data of single cells and bulk-cell DNA-sequencing (e.g whole exome sequencing - WES) of matched samples (tumor and normal). If the DNA-sequencing data are not available, the list of somatic mutations can be used.
 
 Software requirements for SCmut:
 
