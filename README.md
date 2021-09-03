@@ -10,10 +10,15 @@ Software requirements for SCmut:
 
 SCmut
 Java 1.8 or higher
+
 R 3.2 or higher
+
 Samtools 1.3 or higher
+
 Picard 2.3 or higher
+
 VarScan 2.3.7 or higher
+
 GATKAnalysisTK 3.6 or higher
 
 ## 2. Usage
