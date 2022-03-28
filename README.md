@@ -31,6 +31,6 @@ known_Mills_indels="/home/zhouchi/pTuneos/database_backup/VCF_annotation/Mills_a
 known_1000G_indels="/home/zhouchi/pTuneos/database_backup/VCF_annotation/1000G_phase1.indels.hg38.sites.vcf.gz"
 
 ### 2.2 run code:
-`bash comboSC-para`
+`bash SCmut.R`
 
 
